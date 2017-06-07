@@ -1,0 +1,251 @@
+2017-01-14 15:08:28,767 - app-analyser - DEBUG - debug message
+2017-01-14 15:08:28,768 - app-analyser - INFO - info message
+2017-01-14 15:08:28,768 - app-analyser - WARNING - warn message
+2017-01-14 15:08:28,768 - app-analyser - ERROR - error message
+2017-01-14 15:08:28,768 - app-analyser - CRITICAL - critical message
+2017-01-14 15:11:27,522 - app-analyser - INFO - Start App-Analyser
+2017-01-14 15:11:27,523 - app-analyser - DEBUG - debug message
+2017-01-14 15:11:27,523 - app-analyser - INFO - info message
+2017-01-14 15:11:27,524 - app-analyser - WARNING - warn message
+2017-01-14 15:11:27,524 - app-analyser - ERROR - error message
+2017-01-14 15:11:27,524 - app-analyser - CRITICAL - critical message
+2017-01-14 15:11:31,649 - app-analyser - INFO - Start App-Analyser
+2017-01-14 15:11:31,650 - app-analyser - DEBUG - debug message
+2017-01-14 15:11:31,650 - app-analyser - INFO - info message
+2017-01-14 15:11:31,650 - app-analyser - WARNING - warn message
+2017-01-14 15:11:31,650 - app-analyser - ERROR - error message
+2017-01-14 15:11:31,650 - app-analyser - CRITICAL - critical message
+2017-01-14 15:11:32,621 - app-analyser - INFO - Start App-Analyser
+2017-01-14 15:11:32,621 - app-analyser - DEBUG - debug message
+2017-01-14 15:11:32,621 - app-analyser - INFO - info message
+2017-01-14 15:11:32,621 - app-analyser - WARNING - warn message
+2017-01-14 15:11:32,621 - app-analyser - ERROR - error message
+2017-01-14 15:11:32,621 - app-analyser - CRITICAL - critical message
+2017-01-14 15:12:28,108 - app-analyser - INFO - Start App-Analyser
+2017-01-14 15:12:28,108 - app-analyser - INFO - ------------------
+2017-01-14 15:12:28,108 - app-analyser - DEBUG - debug message
+2017-01-14 15:12:28,109 - app-analyser - INFO - info message
+2017-01-14 15:12:28,109 - app-analyser - WARNING - warn message
+2017-01-14 15:12:28,109 - app-analyser - ERROR - error message
+2017-01-14 15:12:28,109 - app-analyser - CRITICAL - critical message
+2017-01-14 15:14:24,658 - app-analyser - INFO - Start App-Analyser
+2017-01-14 15:14:24,658 - app-analyser - INFO - ------------------
+2017-01-14 15:14:24,659 - app-analyser - DEBUG - debug message
+2017-01-14 15:14:24,659 - app-analyser - INFO - info message
+2017-01-14 15:15:24,657 - app-analyser - WARNING - warn message
+2017-01-14 15:15:24,657 - app-analyser - ERROR - error message
+2017-01-14 15:15:24,657 - app-analyser - CRITICAL - critical message
+2017-01-14 16:43:17,055 - app-analyser - INFO - Start App-Analyser
+2017-01-14 16:43:17,057 - app-analyser - INFO - ------------------
+2017-01-14 16:43:17,058 - app-analyser - DEBUG - debug message
+2017-01-14 16:43:17,058 - app-analyser - INFO - info message
+2017-01-14 16:43:17,058 - app-analyser - WARNING - warn message
+2017-01-14 16:43:17,058 - app-analyser - ERROR - error message
+2017-01-14 16:43:17,058 - app-analyser - CRITICAL - critical message
+2017-01-14 16:44:01,162 - app-analyser - INFO - Start App-Analyser
+2017-01-14 16:44:01,163 - app-analyser - INFO - ------------------
+2017-01-14 16:44:01,163 - app-analyser - DEBUG - debug message
+2017-01-14 16:44:01,163 - app-analyser - INFO - info message
+2017-01-14 16:44:01,163 - app-analyser - WARNING - warn message
+2017-01-14 16:44:01,163 - app-analyser - ERROR - error message
+2017-01-14 16:44:01,163 - app-analyser - CRITICAL - critical message
+2017-01-14 16:44:41,139 - app-analyser - INFO - Start App-Analyser
+2017-01-14 16:44:41,140 - app-analyser - INFO - ------------------
+2017-01-14 16:44:41,140 - app-analyser - DEBUG - debug message
+2017-01-14 16:44:41,140 - app-analyser - INFO - info message
+2017-01-14 16:44:41,140 - app-analyser - WARNING - warning message
+2017-01-14 16:44:41,140 - app-analyser - ERROR - error message
+2017-01-14 16:44:41,140 - app-analyser - CRITICAL - critical message
+2017-01-14 16:45:56,668 - app-analyser - INFO - Start App-Analyser
+2017-01-14 16:45:56,668 - app-analyser - INFO - ------------------
+2017-01-14 16:45:56,669 - app-analyser - DEBUG - debug message
+2017-01-14 16:45:56,669 - app-analyser - INFO - info message
+2017-01-14 16:45:56,669 - app-analyser - WARNING - warning message
+2017-01-14 16:45:56,669 - app-analyser - ERROR - error message
+2017-01-14 16:45:56,669 - app-analyser - CRITICAL - critical message
+2017-01-14 16:54:58,314 - app-analyser - INFO - Start App-Analyser
+2017-01-14 16:54:58,314 - app-analyser - INFO - ------------------
+2017-01-14 16:54:58,314 - app-analyser - DEBUG - debug message
+2017-01-14 16:54:58,314 - app-analyser - INFO - info message
+2017-01-14 16:54:58,314 - app-analyser - WARNING - warning message
+2017-01-14 16:54:58,314 - app-analyser - ERROR - error message
+2017-01-14 16:54:58,314 - app-analyser - CRITICAL - critical message
+2017-01-14 16:55:12,808 - app-analyser - INFO - Start App-Analyser
+2017-01-14 16:55:12,808 - app-analyser - INFO - ------------------
+2017-01-14 16:55:12,808 - app-analyser - DEBUG - debug message
+2017-01-14 16:55:12,808 - app-analyser - INFO - info message
+2017-01-14 16:55:12,809 - app-analyser - WARNING - warning message
+2017-01-14 16:55:12,809 - app-analyser - ERROR - error message
+2017-01-14 16:55:12,809 - app-analyser - CRITICAL - critical message
+2017-01-14 16:55:58,195 - app-analyser - INFO - Start App-Analyser
+2017-01-14 16:55:58,195 - app-analyser - INFO - ------------------
+2017-01-14 16:55:58,195 - app-analyser - DEBUG - debug message
+2017-01-14 16:55:58,196 - app-analyser - INFO - info message
+2017-01-14 16:55:58,196 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 16:55:58,196 - app-analyser - WARNING - warning message
+2017-01-14 16:55:58,196 - app-analyser - ERROR - error message
+2017-01-14 16:55:58,196 - app-analyser - CRITICAL - critical message
+2017-01-14 18:09:13,951 - app-analyser - INFO - Start App-Analyser
+2017-01-14 18:09:13,953 - app-analyser - INFO - ------------------
+2017-01-14 18:09:13,953 - app-analyser - DEBUG - debug message
+2017-01-14 18:09:13,953 - app-analyser - INFO - info message
+2017-01-14 18:09:13,953 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 18:13:11,375 - app-analyser - INFO - Start App-Analyser
+2017-01-14 18:13:11,375 - app-analyser - INFO - ------------------
+2017-01-14 18:13:11,375 - app-analyser - DEBUG - debug message
+2017-01-14 18:13:11,375 - app-analyser - INFO - info message
+2017-01-14 18:13:11,375 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 18:23:53,769 - app-analyser - INFO - Start App-Analyser
+2017-01-14 18:23:53,769 - app-analyser - INFO - ------------------
+2017-01-14 18:23:53,769 - app-analyser - DEBUG - debug message
+2017-01-14 18:23:53,769 - app-analyser - INFO - info message
+2017-01-14 18:23:53,769 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 18:27:16,946 - app-analyser - WARNING - warning message
+2017-01-14 18:27:16,946 - app-analyser - ERROR - error message
+2017-01-14 18:27:16,946 - app-analyser - CRITICAL - critical message
+2017-01-14 18:57:22,165 - app-analyser - INFO - Start App-Analyser
+2017-01-14 18:57:22,166 - app-analyser - INFO - ------------------
+2017-01-14 18:57:22,166 - app-analyser - DEBUG - debug message
+2017-01-14 18:57:22,166 - app-analyser - INFO - info message
+2017-01-14 18:57:22,166 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 20:11:24,272 - app-analyser - INFO - Start App-Analyser
+2017-01-14 20:11:24,274 - app-analyser - INFO - ------------------
+2017-01-14 20:11:24,274 - app-analyser - DEBUG - debug message
+2017-01-14 20:11:24,274 - app-analyser - INFO - info message
+2017-01-14 20:11:24,274 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 20:11:24,871 - app-analyser - WARNING - warning message
+2017-01-14 20:11:24,871 - app-analyser - ERROR - error message
+2017-01-14 20:11:24,871 - app-analyser - CRITICAL - critical message
+2017-01-14 20:25:23,589 - app-analyser - INFO - Start App-Analyser
+2017-01-14 20:25:23,590 - app-analyser - INFO - ------------------
+2017-01-14 20:25:23,590 - app-analyser - DEBUG - debug message
+2017-01-14 20:25:23,590 - app-analyser - INFO - info message
+2017-01-14 20:25:23,590 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 20:25:24,186 - app-analyser - WARNING - warning message
+2017-01-14 20:25:24,186 - app-analyser - ERROR - error message
+2017-01-14 20:25:24,186 - app-analyser - CRITICAL - critical message
+2017-01-14 20:27:23,650 - app-analyser - INFO - Start App-Analyser
+2017-01-14 20:27:23,650 - app-analyser - INFO - ------------------
+2017-01-14 20:27:23,650 - app-analyser - DEBUG - debug message
+2017-01-14 20:27:23,650 - app-analyser - INFO - info message
+2017-01-14 20:27:23,650 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-14 20:27:24,188 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-openspecimen
+2017-01-14 20:28:49,030 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-phenotips
+2017-01-14 20:28:51,541 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bika
+2017-01-14 20:28:52,431 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-opal
+2017-01-14 20:28:54,056 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-onyx
+2017-01-14 20:28:54,838 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-mica
+2017-01-14 20:28:55,750 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-agate
+2017-01-14 20:28:56,666 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-omero
+2017-01-14 20:28:57,664 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-molgenis
+2017-01-14 20:28:58,888 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-wordpress
+2017-01-14 20:29:00,880 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-liferay
+2017-01-14 20:29:01,852 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bibbox-monitoring
+2017-01-14 20:29:03,388 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-jupyter-datascience-notebook
+2017-01-14 20:29:04,493 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bacula
+2017-01-14 20:29:05,774 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-droppy
+2017-01-14 20:29:06,673 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-odk
+2017-01-14 20:29:08,775 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-stategraems
+2017-01-14 20:29:09,768 - app-analyser - WARNING - warning message
+2017-01-14 20:29:09,769 - app-analyser - ERROR - error message
+2017-01-14 20:29:09,769 - app-analyser - CRITICAL - critical message
+2017-01-15 17:03:58,630 - app-analyser - INFO - Start App-Analyser
+2017-01-15 17:03:58,632 - app-analyser - INFO - ------------------
+2017-01-15 17:03:58,633 - app-analyser - DEBUG - debug message
+2017-01-15 17:03:58,633 - app-analyser - INFO - info message
+2017-01-15 17:03:58,633 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-15 17:03:59,339 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-openspecimen
+2017-01-15 17:03:59,889 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-phenotips
+2017-01-15 17:04:00,419 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bika
+2017-01-15 17:04:00,963 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-opal
+2017-01-15 17:04:01,518 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-onyx
+2017-01-15 17:04:02,071 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-mica
+2017-01-15 17:04:02,612 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-agate
+2017-01-15 17:04:03,146 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-omero
+2017-01-15 17:04:03,678 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-molgenis
+2017-01-15 17:04:04,541 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-wordpress
+2017-01-15 17:04:05,104 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-liferay
+2017-01-15 17:04:05,646 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bibbox-monitoring
+2017-01-15 17:04:06,176 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-jupyter-datascience-notebook
+2017-01-15 17:04:06,715 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bacula
+2017-01-15 17:04:07,240 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-droppy
+2017-01-15 17:04:07,770 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-odk
+2017-01-15 17:04:08,314 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-stategraems
+2017-01-15 17:04:08,852 - app-analyser - WARNING - warning message
+2017-01-15 17:04:08,852 - app-analyser - ERROR - error message
+2017-01-15 17:04:08,852 - app-analyser - CRITICAL - critical message
+2017-01-16 13:36:34,364 - app-analyser - INFO - Start App-Analyser
+2017-01-16 13:36:34,365 - app-analyser - INFO - ------------------
+2017-01-16 13:36:34,365 - app-analyser - DEBUG - debug message
+2017-01-16 13:36:34,366 - app-analyser - INFO - info message
+2017-01-16 13:36:34,366 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-16 13:36:35,092 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-openspecimen
+2017-01-16 13:36:35,652 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-phenotips
+2017-01-16 13:36:36,191 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bika
+2017-01-16 13:36:36,732 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-opal
+2017-01-16 13:36:37,264 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-onyx
+2017-01-16 13:36:37,789 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-mica
+2017-01-16 13:36:38,311 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-agate
+2017-01-16 13:36:38,862 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-omero
+2017-01-16 13:36:39,495 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-molgenis
+2017-01-16 13:36:40,028 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-wordpress
+2017-01-16 13:36:40,562 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-liferay
+2017-01-16 13:36:41,092 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bibbox-monitoring
+2017-01-16 13:36:41,657 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-jupyter-datascience-notebook
+2017-01-16 13:36:42,201 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bacula
+2017-01-16 13:36:42,744 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-droppy
+2017-01-16 13:36:43,510 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-odk
+2017-01-16 13:36:44,146 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-stategraems
+2017-01-16 13:36:44,862 - app-analyser - WARNING - warning message
+2017-01-16 13:36:44,862 - app-analyser - ERROR - error message
+2017-01-16 13:36:44,862 - app-analyser - CRITICAL - critical message
+2017-01-16 13:37:34,986 - app-analyser - INFO - Start App-Analyser
+2017-01-16 13:37:34,986 - app-analyser - INFO - ------------------
+2017-01-16 13:37:34,986 - app-analyser - DEBUG - debug message
+2017-01-16 13:37:34,986 - app-analyser - INFO - info message
+2017-01-16 13:37:34,986 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-16 13:37:35,568 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-openspecimen
+2017-01-16 13:37:36,099 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-phenotips
+2017-01-16 13:37:36,609 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bika
+2017-01-16 13:37:37,152 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-opal
+2017-01-16 13:37:37,685 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-onyx
+2017-01-16 13:37:38,242 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-mica
+2017-01-16 13:37:38,792 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-agate
+2017-01-16 13:37:39,299 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-omero
+2017-01-16 13:37:39,850 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-molgenis
+2017-01-16 13:37:40,366 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-wordpress
+2017-01-16 13:37:40,881 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-liferay
+2017-01-16 13:37:41,406 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bibbox-monitoring
+2017-01-16 13:37:41,945 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-jupyter-datascience-notebook
+2017-01-16 13:37:42,480 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bacula
+2017-01-16 13:37:43,007 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-droppy
+2017-01-16 13:37:43,528 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-odk
+2017-01-16 13:37:44,047 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-stategraems
+2017-01-16 13:37:44,601 - app-analyser - WARNING - warning message
+2017-01-16 13:37:44,601 - app-analyser - ERROR - error message
+2017-01-16 13:37:44,601 - app-analyser - CRITICAL - critical message
+2017-01-16 13:42:03,783 - app-analyser - INFO - Start App-Analyser
+2017-01-16 13:42:03,783 - app-analyser - INFO - ------------------
+2017-01-16 13:42:03,783 - app-analyser - DEBUG - debug message
+2017-01-16 13:42:03,783 - app-analyser - INFO - info message
+2017-01-16 13:42:03,784 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/application-store
+2017-01-16 13:42:04,467 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-openspecimen
+2017-01-16 13:42:05,005 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-phenotips
+2017-01-16 13:42:05,544 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bika
+2017-01-16 13:42:06,083 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-opal
+2017-01-16 13:42:06,607 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-onyx
+2017-01-16 13:42:07,267 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-mica
+2017-01-16 13:42:07,844 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-agate
+2017-01-16 13:42:08,389 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-omero
+2017-01-16 13:42:08,957 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-molgenis
+2017-01-16 13:42:09,501 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-wordpress
+2017-01-16 13:42:10,040 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-liferay
+2017-01-16 13:42:10,639 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bibbox-monitoring
+2017-01-16 13:42:11,169 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-jupyter-datascience-notebook
+2017-01-16 13:42:11,740 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-bacula
+2017-01-16 13:42:12,276 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-droppy
+2017-01-16 13:42:12,855 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-odk
+2017-01-16 13:42:13,496 - app-analyser - INFO - Creating Git object for: https://github.com/bibbox/app-stategraems
+2017-01-16 13:42:14,072 - app-analyser - WARNING - warning message
+2017-01-16 13:42:14,072 - app-analyser - ERROR - error message
+2017-01-16 13:42:14,072 - app-analyser - CRITICAL - critical message
