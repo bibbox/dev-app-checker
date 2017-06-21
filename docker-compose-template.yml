@@ -8,8 +8,8 @@ networks:
 services:
     §§INSTANCE-dev-app-checker:
         build:
-            context: .
-            dockerfile: ./Dockerfile
+            context: ./images/app-checker
+            dockerfile: Dockerfile
         container_name: §§INSTANCE-dev-app-checker
         depends_on:
             - §§INSTANCE-dev-app-checker-redis
