@@ -15,7 +15,7 @@ services:
         networks:
             - bibbox-default-network
         ports:
-            - '§§PORT:8000'
+            - '§§PORT:5000'
 
     §§INSTANCE-dev-app-checker-redis:
         image: 'redis:3.0-alpine'
