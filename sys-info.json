@@ -1,0 +1,4 @@
+{
+  "runningcontainers": ["§§INSTANCE-dev-app-checker", "§§INSTANCE-dev-app-checker-redis"],
+  "supportcontainers": []
+}

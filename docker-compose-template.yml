@@ -1,0 +1,29 @@
+version: '2'
+
+
+networks:
+    bibbox-default-network:
+      external: true
+
+services:
+    §§INSTANCE-dev-app-checker:
+        build:
+            context: ./
+        container_name: §§INSTANCE-dev-app-checker
+        depends_on:
+            - §§INSTANCE-dev-app-checker-redis
+        restart: unless-stopped
+        networks:
+            - bibbox-default-network
+        ports:
+            - '§§PORT:8000'
+
+    §§INSTANCE-dev-app-checker-redis:
+        image: 'redis:3.0-alpine'
+        command: redis --requirepass bibbox4ever
+        container_name: §§INSTANCE-dev-app-checker-redis
+        restart: unless-stopped
+        networks:
+            - bibbox-default-network
+        ports:
+            - '6388:6379'

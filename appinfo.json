@@ -1,0 +1,10 @@
+{
+  "name": "App Checker",
+  "short_name": "App Checker",
+  "version": "v1.0",
+  "description": "Development application for analyzing BIBBOX applications.",
+  "short_description": "App Analyzer",
+  "catalog_url": "",
+  "application_url": "",
+  "tags": ["BIBBBOX", "Apps", "Analyzer"]
+}

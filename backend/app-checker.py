@@ -181,4 +181,4 @@ if __name__ == '__main__':
     setup_log()
     logger.handlers[0].flush()
 
-    flask_app.run(debug=True)
+    flask_app.run(debug=True, host='0.0.0.0')
