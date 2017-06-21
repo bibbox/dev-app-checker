@@ -1,11 +1,4 @@
 {
-  "makefolders":[
-    "images/app-checker"
-  ],
-  "copyfiles":[
-    {
-      "source":"images/app-checker",
-      "destination":"images/app-checker"
-    }
-  ]
+  "makefolders":[],
+  "copyfiles":[]
 }
