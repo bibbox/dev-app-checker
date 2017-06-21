@@ -8,7 +8,7 @@ networks:
 services:
     §§INSTANCE-dev-app-checker:
         build:
-            context: ./
+            context: .
         container_name: §§INSTANCE-dev-app-checker
         depends_on:
             - §§INSTANCE-dev-app-checker-redis
