@@ -7,7 +7,7 @@ networks:
 
 services:
     §§INSTANCE-dev-app-checker:
-        build: ./images/app-checker
+        image: bibbox/app-checker
         container_name: §§INSTANCE-dev-app-checker
         depends_on:
             - §§INSTANCE-dev-app-checker-redis
