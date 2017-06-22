@@ -140,7 +140,7 @@ def store():
         if 'PYCHARM_HOSTED' in os.environ.keys():
             redis_db = redis.StrictRedis(host='localhost', port=6388, db=0, password="bibbox4ever")
         else:
-            redis_db = redis.StrictRedis(host='app-checker-dev-app-checker-redis', port=6388, db=0, password="bibbox4ever")
+            redis_db = redis.StrictRedis(host='dev-app-checker-redis', port=6388, db=0, password="bibbox4ever")
     except:
         logger.exception('Cannot connect to redis')
         raise
