@@ -19,7 +19,7 @@ services:
 
     §§INSTANCE-dev-app-checker-redis:
         image: 'redis:3.0.7'
-        command: redis --requirepass bibbox4ever
+        command: redis-server --requirepass bibbox4ever
         container_name: §§INSTANCE-dev-app-checker-redis
         restart: unless-stopped
         networks:
