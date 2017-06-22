@@ -136,14 +136,7 @@ def get_repositories():
 
 
 def store():
-    try:
-        if 'PYCHARM_HOSTED' in os.environ.keys():
-            redis_db = redis.StrictRedis(host='localhost', port=6388, db=0, password="bibbox4ever")
-        else:
-            redis_db = redis.StrictRedis(host='app-appchecker-redis', port=6388, db=0, password="bibbox4ever")
-    except:
-        logger.exception('Cannot connect to redis')
-        raise
+    redis_db = redis.StrictRedis(host='0.0.0.0', port=6388, db=0, password="bibbox4ever")
 
     return redis_db
 
