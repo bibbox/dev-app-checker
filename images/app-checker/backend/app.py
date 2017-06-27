@@ -18,7 +18,7 @@ class App:
         'id-mapping-info.json',
         'config-parameters.json',
         'environment-parameters.json',
-        'docker-compose-templates.yml'
+        'docker-compose-template.yml'
     ]
 
     suggested_files = [
@@ -32,7 +32,7 @@ class App:
         'sys-info.json',
         'portinfo.json',
         'file_structure.json',
-        'docker-compose-templates.yml'
+        'docker-compose-template.yml'
     ]
 
     appinfo_params = [
