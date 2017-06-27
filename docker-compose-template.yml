@@ -10,19 +10,19 @@ services:
         image: bibbox/app-checker
         container_name: §§INSTANCE-dev-app-checker
         depends_on:
-            - dev-app-checker-redis
+            - §§INSTANCE-dev-app-checker-redis
         restart: unless-stopped
         networks:
             - bibbox-default-network
         ports:
             - '§§PORT:5000'
         links:
-            - dev-app-checker-redis:dev-app-checker-redis
+            - §§INSTANCE-dev-app-checker-redis:dev-app-checker-redis
 
-    dev-app-checker-redis:
+    §§INSTANCE-dev-app-checker-redis:
         image: 'redis:3.0.7'
         command: redis-server --requirepass bibbox4ever
-        container_name: dev-app-checker-redis
+        container_name: §§INSTANCE-dev-app-checker-redis
         restart: unless-stopped
         networks:
             - bibbox-default-network
